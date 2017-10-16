@@ -1,2 +1,3 @@
+
 # encrypted-json-manager
-Handle a json with a salt key to load &amp; save changes
+Manage an encrypted `json` structure using a private salt key.
